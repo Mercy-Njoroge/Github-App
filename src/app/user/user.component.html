@@ -23,3 +23,15 @@
               <h4><I>Following:</I>{{user.following}}</h4><br><br>
               <h4><I>Number Of Repositories</I>:{{user.public_repos}}</h4><br><br>
             </div>
+
+            <div class="col-md-6">
+                <ul>
+                  <li *ngFor="let repo of repository">{{repo.name}} <br>{{repo.description}} <br><br></li>
+              </ul>
+              </div>
+            </div>
+            </cite>
+            </footer>
+            </li>
+          </ul>
+        </blockquote>
