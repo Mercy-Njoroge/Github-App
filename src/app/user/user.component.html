@@ -1,12 +1,12 @@
 <h1 style="margin-left: 300px; background-color:darkgreen; color: whitesmoke;">The github user's Information</h1><br><br><br>
 <div class="container">
     <div class="form-group">
-        
-        <label for="name"><h4><u>Input The UserName Here:</u></h4></label>
+        <form>
+        <label for="name">Input The UserName Here:</label>
         <input type="text" name="githubUser" placeholder="Github Username" [(ngModel)]="userName">
         <button type="submit" class="btn btn-success" (click)="submitUser()">Search</button>
-    </div>
-
+    
+  </form>
     <blockquote class="text-center text-lg">
         <ul>
           <li appHighlight><br>
