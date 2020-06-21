@@ -4,7 +4,7 @@ Github-App is a website that enables users to enter a GitHub username into a for
 Mercy Njoroge
 
 # Live Link
-[ ]
+[https://Mercy-Njoroge.github.io/Github-App/]
 
 # Technologies Used
 HTML
