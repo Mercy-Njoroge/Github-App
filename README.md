@@ -1,6 +1,25 @@
 # GithubApp
+Github-App is a website that enables users to enter a GitHub username into a form, submit it, and see names and descriptions of that person's public repositories. A person can also look for repositories
+# Author
+Mercy Njoroge
 
+# Live Link
+[ ]
+
+# Technologies Used
+HTML
+CSS
+JAVASCRIPT
+BOOTSTRAP
+JQUERY
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.9.
+
+# Contact
+Mercy Njoroge [aprilkasha42@gmail.com]
+
+# Licence
+Licence MIT Copyright(c)2019
+
 
 ## Development server
 
